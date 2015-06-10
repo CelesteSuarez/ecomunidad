@@ -5521,6 +5521,9 @@ button.close {
 /*========================================
 =             APP CUSTOM                 =
 ========================================*/
+.text-center {
+  text-align: center; }
+
 img.logo {
   width: 37%; }
 
@@ -5532,5 +5535,9 @@ nav.navbar.navbar-default {
   background-color: green;
   width: 100%;
   min-height: 350px; }
+
+.frase {
+  background-color: gray;
+  width: 100%; }
 
 /*# sourceMappingURL=main.css.map */
