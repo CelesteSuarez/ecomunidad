@@ -5527,6 +5527,12 @@ button.close {
 .text-white {
   color: white; }
 
+.text-green {
+  color: #5E8039; }
+
+.text-gray {
+  color: #4D4D4D; }
+
 img.logo {
   width: 37%; }
 
@@ -5572,5 +5578,9 @@ p.text-center {
   background-repeat: no-repeat;
   background-size: cover;
   height: 50%; }
+
+/*Servicios*/
+.titulo-servicios {
+  padding-top: 4%; }
 
 /*# sourceMappingURL=main.css.map */
