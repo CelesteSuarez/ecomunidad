@@ -5589,4 +5589,9 @@ p.text-center {
   width: 20%;
   margin: 0 auto; }
 
+/*Proyectos*/
+div#proyectos {
+  background-color: green;
+  width: 100%; }
+
 /*# sourceMappingURL=main.css.map */
