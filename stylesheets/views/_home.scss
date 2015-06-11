@@ -32,3 +32,25 @@ nav.navbar.navbar-default {
     margin: 0 auto;
     margin-top: 4%
    }
+
+/*Metodologia*/
+
+.izquierda{
+	width: 100%;
+	background-image: url(../img/izquierda.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 150px;
+}   
+
+.iconometodologia {
+    width: 15%;
+    margin: 0 auto;
+}
+
+.derecha {
+    width: 100%;
+    background-image: url(../img/Metodologia.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
