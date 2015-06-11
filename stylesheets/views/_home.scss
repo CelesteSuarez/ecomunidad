@@ -7,13 +7,28 @@ nav.navbar.navbar-default {
     margin-bottom: 0;
  }
 
+/*Banner*/
  .banner{
  	background-color: green;
  	width: 100%;
  	min-height: 350px;	
  }
 
+ /*Frase*/
+
  .frase{
  	background-color: gray;
  	width: 100%;
  }
+
+ p.text-center {
+    padding: 5%;
+ }
+
+ /*Vision Mision*/
+
+ .imagen {
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 4%
+   }
