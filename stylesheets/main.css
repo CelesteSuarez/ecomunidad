@@ -5560,7 +5560,7 @@ p.text-center {
   background-image: url(../img/izquierda.png);
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 150px; }
+  height: 50%; }
 
 .iconometodologia {
   width: 15%;
@@ -5570,6 +5570,7 @@ p.text-center {
   width: 100%;
   background-image: url(../img/Metodologia.jpg);
   background-repeat: no-repeat;
-  background-size: cover; }
+  background-size: cover;
+  height: 50%; }
 
 /*# sourceMappingURL=main.css.map */
