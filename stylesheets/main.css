@@ -5537,8 +5537,10 @@ img.logo {
   width: 37%; }
 
 nav.navbar.navbar-default {
-  height: 12%;
   margin-bottom: 0; }
+
+img.logo {
+  width: 70px; }
 
 /*Banner*/
 .banner {
