@@ -5608,4 +5608,12 @@ div#proyectos {
   margin: 0 auto;
   padding-top: 8px; }
 
+/*Blog*/
+div#blog {
+  background-image: url(../recursos/Texturas/Blog.jpg);
+  width: 100%;
+  min-height: 300px;
+  background-size: cover;
+  background-repeat: no-repeat; }
+
 /*# sourceMappingURL=main.css.map */
