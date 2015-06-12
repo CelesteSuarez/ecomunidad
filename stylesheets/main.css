@@ -5594,4 +5594,9 @@ div#proyectos {
   background-color: green;
   width: 100%; }
 
+/*Equipo*/
+.img-personal {
+  width: 45%;
+  margin: 0 auto; }
+
 /*# sourceMappingURL=main.css.map */
