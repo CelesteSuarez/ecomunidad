@@ -5533,6 +5533,15 @@ button.close {
 .text-gray {
   color: #4D4D4D; }
 
+.text-yellow {
+  color: #f39c12; }
+
+.pull-lef {
+  float: left; }
+
+.pull-right {
+  float: right; }
+
 img.logo {
   width: 37%; }
 
@@ -5629,5 +5638,8 @@ div#blog {
 img.logo-lab {
   width: 20%;
   padding-left: 5%; }
+
+.texto-final {
+  float: right; }
 
 /*# sourceMappingURL=main.css.map */
