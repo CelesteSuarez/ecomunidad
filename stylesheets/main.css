@@ -5553,9 +5553,11 @@ img.logo {
 
 /*Banner*/
 .banner {
-  background-color: green;
+  background-image: url(../img/banner.png);
   width: 100%;
-  min-height: 350px; }
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover; }
 
 /*Frase*/
 .frase {
