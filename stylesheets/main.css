@@ -5644,7 +5644,9 @@ div#blog {
 
 img.logo-lab {
   width: 20%;
-  padding-left: 5%; }
+  padding-left: 4%;
+  position: relative;
+  top: 34px; }
 
 .texto-final {
   float: right; }
